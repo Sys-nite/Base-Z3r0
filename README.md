@@ -1,1 +1,4 @@
-# Base-Z3r0
+# Poem
+## Author: Rey Montanez
+## Discription:
+Here is my first Github Repo!
